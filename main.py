@@ -54,6 +54,7 @@ def chatbot():
         "ip address": "An IP address identifies a device on a network uniquely.",
         "framework": "A framework provides a foundation for developing software applications.",
         "dataset": "A dataset is a collection of related data used for analysis or training models.",
+        "fav cricker": "Virat Kohli",
     }
 
     while True:
